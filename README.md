@@ -14,7 +14,7 @@ winner and finally the fifth to switch players .
 
 The idea of the code I used is that we print a board of 9 boxes each box is an 
 element of array, where this array contains of 10 elements, we also take inputs 
-from the user which is the player if ‘X’, ’y’ or exit and the choices of the location of 
+from the user which is the player if ‘X’, ’O’ or exit and the choices of the location of 
 the box he wants to play in, then we pass these inputs by the 5 functions I talked 
 about previously to implement the game successfully.
 In the main function we used mainly a DO-While to loop over our code as long as 
