@@ -250,3 +250,5 @@ value returned and it takes 2 arguments int *player1 , int *player2
 	return *player1;
 }
 ```
+## Watch the code running 
+![ watch the code running ](20210105_054749.gif)
